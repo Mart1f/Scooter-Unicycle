@@ -59,5 +59,7 @@ The project covers the complete development cycle — from **concept and 3D desi
 ---
 
 ## 📸 Gallery
+![TestBattery](https://github.com/user-attachments/assets/698242a2-1624-41dc-a03d-43c474755608)
+![Prototype1](https://github.com/user-attachments/assets/f2146559-f50e-4c83-bf1e-ea53f2ffc2de)
 
-*(Add your images or CAD renders here)*  
+
